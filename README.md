@@ -1,16 +1,11 @@
-# training3clone
+# BookStore
 
-A new Flutter project.
+## Main features
+  1. Book store app with Filter function
+  
 
-## Getting Started
+## Check these videos for details
+ 
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/110902058/210416749-c9d66a46-4610-4c5d-895c-d6b3fdf93d79.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
